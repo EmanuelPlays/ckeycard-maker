@@ -23,7 +23,7 @@ UI & branding enhancements by **EmanuelPlays**
    - Inventory Name
    - Permission Levels (Containment, Armory, Admin)
    - Colors and Labels
-   - Card Holder Name
+   - Card Holder Name (bugged)
 
 2. Click **Copy Command**  
    → The tool generates a command that is simple to copy
